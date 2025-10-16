@@ -35,7 +35,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-
 # --- BARRA LATERAL ---
 with st.sidebar:
     st.title("Angel Isaí Salazar")
@@ -62,7 +61,7 @@ with st.container():
     Actualmente, busco activamente una oportunidad de empleo en el campo de la programación para 
     adquirir experiencia valiosa y fortalecer mi carrera profesional.
     """)
-
+ 
 # --- HABILIDADES ---
 col1, col2 = st.columns(2)
 
